@@ -1,4 +1,4 @@
-#Program rental ps
+## Program rental ps
 
 # Deskripsi Program "Rental PS"
 Program ini adalah aplikasi GUI (Graphical User Interface) berbasis Java menggunakan Swing yang dirancang untuk mengelola penyewaan PlayStation (PS). Program ini memungkinkan pengguna untuk menampilkan daftar PS yang tersedia, memesan PS, melakukan pembayaran, menghapus riwayat pesanan, dan keluar dari aplikasi.
